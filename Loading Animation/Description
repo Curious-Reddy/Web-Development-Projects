@@ -1,0 +1,11 @@
+Loading animations, also known as pre-loaders, loaders, or spinners, are visual cues that inform users your website is busy loading content. They are created using HTML and CSS.
+
+HTML:- A section defines a document section with a heading. A simple div element is typically used in the HTML to define the space for the loader, while span groups inline content for styling or identification. 
+
+CSS:- CSS styles are applied to the div to create the animation. This can involve using properties like border, border-radius, and animation to create various spinning or loading effects.
+
+These animations provide a better user experience by:
+
+* Indicating the website is working and not frozen.
+* Reducing the perception of load time.
+* Keeping users engaged while they wait.
